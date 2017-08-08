@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "495972882856",
+    "firebase_url": "https://phoneauthentication-7267b.firebaseio.com",
+    "project_id": "phoneauthentication-7267b",
+    "storage_bucket": "phoneauthentication-7267b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495972882856:android:68e8fe9825df51db",
+        "android_client_info": {
+          "package_name": "com.sio.pa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495972882856-rs2h4an9gv91hrc5cvhe8nadjnqa0vmp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sio.pa",
+            "certificate_hash": "e634d86ff7ede70d2632a53ca1537d22f7fd5256"
+          }
+        },
+        {
+          "client_id": "495972882856-95c6g348cq4qga7o3p3stuq831vrq7nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdnaULpt1iKcN9EOgkRuMf1mg3IplAYY0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495972882856-95c6g348cq4qga7o3p3stuq831vrq7nd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
